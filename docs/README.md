@@ -2,22 +2,11 @@
 
 [TOC]
 
-The goal of this demo is to demonstrate how to create a workflow with the
-Google Cloud Healthcare API, specifically a FHIR data store. This document will
-walk through how to set up a Cloud project, and how to create a web application
-that implements a FHIR workflow, including machine learning and data discovery.
-The web application in this project provides immunization suggestions for
-countries that the user indicates they will be traveling to and allows users to
-track the immunizations they have received and which ones may be coming up for
-renewal.
+El objetivo de esta demostración es demostrar cómo crear un flujo de trabajo con la API de Google Cloud Healthcare, específicamente un almacén de datos FHIR. Este documento explica cómo configurar un proyecto en la nube y cómo crear una aplicación web que implemente un flujo de trabajo FHIR, incluido el aprendizaje automático y el descubrimiento de datos. La aplicación web de este proyecto proporciona sugerencias de inmunización para los países a los que el usuario indica que viajará y permite a los usuarios realizar un seguimiento de las vacunas que han recibido y cuáles pueden estar por renovarse.
 
-WARNING: The predictions made by this application are presented for
-the purpose of demonstrating how to integrate machine learning into a FHIR
-application, and are not medical advice. The use case presented here is also
-not a recommended application of machine learning on FHIR data. All data in this
-demo is generated and not based on any patient health data.
+ADVERTENCIA: Las predicciones realizadas por esta aplicación se presentan con el propósito de demostrar cómo integrar el aprendizaje automático en una aplicación FHIR y no son consejos médicos. El caso de uso que se presenta aquí tampoco es una aplicación recomendada de aprendizaje automático en datos FHIR. Todos los datos de esta demostración se generan y no se basan en ningún dato de salud del paciente.
 
-Here is the architecture of the whole system.
+Aquí está la arquitectura de todo el sistema.
 ![System Architecture](FHIR_DevDays_Demo.png)
 
 ## Getting started

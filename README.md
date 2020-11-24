@@ -1,13 +1,15 @@
-Proyectos Bootcamp AI
+# Proyectos Bootcamp AI - GCP
 
-Índice
-1. Preámbulo
-2. Resumen del proyecto
+## Índice
+* [1. Overview](#1-preámbulo)
+* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 3. Problema
 4. Puntos clave
 5. TODO
 6. Criterios de aceptación
- 
+
+*** 
  
 1. Preámbulo
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
