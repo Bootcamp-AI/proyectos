@@ -10,6 +10,9 @@
 6. Criterios de aceptación
 
 *** 
+![System Architecture](FHIR_DevDays_Demo.png)
+
+
  
 1. Preámbulo
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
