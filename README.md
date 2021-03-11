@@ -10,8 +10,7 @@
 6. Criterios de aceptación
 
 *** 
-![System Architecture](FHIR_DevDays_Demo.png)
-
+<img src="/Bootcamp-AI/proyectos/raw/main/docs/FHIR_DevDays_Demo.png" alt="System Architecture" style="max-width:100%;">
 
  
 1. Preámbulo
