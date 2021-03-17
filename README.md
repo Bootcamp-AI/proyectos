@@ -10,7 +10,8 @@
 
 
 ## Índice
-* [1. Overview](#1-preámbulo)
+- [**1. Overview**](#who-we-are)
+* [1. Overview](#1. Overview)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 3. Problema
@@ -18,7 +19,7 @@
 5. TODO
 6. Criterios de aceptación
 
-<img src="proyectos/docs/FHIR_DevDays_Demo.png" width="400" height="400">
+<img src="docs/FHIR_DevDays_Demo.png" width="400" height="400">
 
 
 ## Who We Are
