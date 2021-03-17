@@ -6,11 +6,12 @@
 <br><br>
 
 ## Table of Contents
-- [**1. Overviewe**](#1. Overview)
+- [**Who We Are**](#who-we-are)
 
 
 ## Índice
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [1. Overview](#1.-Overview)
+* [2. Resumen del proyecto](#2.-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 3. Problema
 4. Puntos clave
