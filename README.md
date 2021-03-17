@@ -28,7 +28,30 @@
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
 No obstante, los datos por sí mismos son de poca utilidad. Para que esas grandes cantidades de datos se conviertan en información fácil de leer para los usuarios, necesitamos entender y procesar estos datos. Una manera simple de hacerlo es creando interfaces y visualizaciones.
 En este año los hospitales han generado más datos debido a la pandemia y necesitan estructurarlos de mejor manera.
+<br>
+<br>
+## Setup
+<ul>
+<li>Fork this repo</li>
+<li>Clone this repo</li>
+</ul>
 
+## Submition
+<ul>
+<li>
+<p>Upon completion, run the following commands:</p>
+<pre><code>git add .
+git commit -m "done"
+git push origin main
+</code></pre>
+</li>
+<li>
+<p>Create Pull Request so your TAs can check up your work.</p>
+</li>
+</ul>
+
+<br>
+<br>
 ## Resumen del proyecto
 En este proyecto construirás un sistema para para el registro y análisis de datos de pacientes para uno o más hospitales.
 Como entregable final tendrás una página web que permita a los doctores y enfermeras interactuar con la interfaz y visualizar métricas.
@@ -50,14 +73,14 @@ Finalmente, debe considerar soluciones de almacenamiento potencialmente diferent
 
 ## TODO
 
-# Planificación
+### Planificación
 Puntos de negocio clave
 Evaluación técnica
 Solución Propuesta 
 
 <br>
 
-# Desarrollo
+### Desarrollo
 Recursos
 Google Healthcare
 Ingesta FHIR a BigQuery
@@ -80,7 +103,7 @@ Solución Propuesta
  
 <br> 
  
-# Implementación de la Interfaz de Usuario
+### Implementación de la Interfaz de Usuario
 Como mínimo, tu implementación debe:
 Mostrar la data en una interfaz: puede ser un card, una tabla, una lista, etc.
 Permitir al usuario interactuar para obtener la información que necesita.
@@ -94,7 +117,7 @@ Google Healthcare
 Ingesta FHIR a BigQuery
 <br> 
  
-# Pruebas unitarias
+### Pruebas unitarias
 El boilerplate de este proyecto no incluye Pruebas Unitarias (tests), así es que tendrás que escribirlas tú para las funciones encargadas de procesar, filtrar y ordenar la data, así como calcular estadísticas.
 Tus pruebas unitarias deben dar una cobertura del 70% de statements (sentencias), functions (funciones), lines (líneas), y branches (ramas) del archivo src/data.js que contenga tus funciones y está detallado en la sección de Consideraciones técnicas.
 <br>
