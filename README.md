@@ -56,6 +56,7 @@ Como entregable final tendrás una página web que permita a los doctores y enfe
 Los datos serán generados por SyntheaTM Patient Generator
 
 <br>
+
 ## Problema
 El hospital XY  ha utilizado históricamente proveedores de nube para alquilar servidores físicos, en los últimos meses ha incrementado el número de pacientes y tuvieron problemas para escalar sus servidores de aplicaciones, bases de datos MySQL y herramientas de análisis. Su arquitectura actual se puede ver aquí. Que consta de un canal HL7, sql y rest api para la ingesta de datos.
 El hospital XY quiere ajustar su infraestructura para resolver sus problemas de escala. Tienen servidores de aplicaciones, base de datos MySQL para almacenar información del usuario y exámenes médicos. Y están interesados en utilizar la analítica para mejorar sus procedimientos. Tienen un plan de diseño implementado, pero tuvieron problemas con un proveedor de nube anterior. Sus objetivos comerciales son utilizar un proveedor de nube que le brinde el Software como Servicio(SaaS) y pagar un valor mensual. 
@@ -74,7 +75,7 @@ Finalmente, debe considerar soluciones de almacenamiento potencialmente diferent
 
 ## TODO
 
-## Planificación
+### Planificación
 <ul>
 <li>Puntos de negocio clave</li>
 <li>Evaluación técnica</li>
@@ -99,13 +100,11 @@ Asegúrate de incluir la definición de terminado (definition of done) y los Cri
 En la medida de lo posible, termina una historia de usuario antes de pasar a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
  <br>
 
-# Planificación
+## Planificación
 Puntos de negocio clave
 Evaluación técnica
 Solución Propuesta 
- 
-<br> 
- 
+  
 ### Implementación de la Interfaz de Usuario
 Como mínimo, tu implementación debe:
 Mostrar la data en una interfaz: puede ser un card, una tabla, una lista, etc.
