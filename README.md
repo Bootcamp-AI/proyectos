@@ -74,11 +74,12 @@ Finalmente, debe considerar soluciones de almacenamiento potencialmente diferent
 
 ## TODO
 
-### Planificación
-Puntos de negocio clave
-Evaluación técnica
-Solución Propuesta 
-
+## Planificación
+<ul>
+<li>Puntos de negocio clave</li>
+<li>Evaluación técnica</li>
+<li>Solución Propuesta </li>
+</ul>
 <br>
 
 ### Desarrollo
