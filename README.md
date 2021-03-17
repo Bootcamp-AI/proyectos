@@ -10,36 +10,36 @@
 
 
 ## Índice
-* [1. Overview](#1.-Overview)
-* [2. Resumen del proyecto](#2.-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-3. Problema
-4. Puntos clave
-5. TODO
-6. Criterios de aceptación
+* [Overview](#Overview)
+* [Resumen del proyecto](#resumen-del-proyecto)
+* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+* [Problema](#Problema)
+* [Puntos clave](#Puntos-clave)
+* [TODO](#TODO)
+* [Criterios de aceptación](#Criterios-de-aceptación)
+* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+
 
 <img src="docs/FHIR_DevDays_Demo.png" width="400" height="400">
 
 
-## Who We Are
 
-
-## 1. Overview
+## Overview
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
 No obstante, los datos por sí mismos son de poca utilidad. Para que esas grandes cantidades de datos se conviertan en información fácil de leer para los usuarios, necesitamos entender y procesar estos datos. Una manera simple de hacerlo es creando interfaces y visualizaciones.
 En este año los hospitales han generado más datos debido a la pandemia y necesitan estructurarlos de mejor manera.
 
-2. Resumen del proyecto
+## Resumen del proyecto
 En este proyecto construirás un sistema para para el registro y análisis de datos de pacientes para uno o más hospitales.
 Como entregable final tendrás una página web que permita a los doctores y enfermeras interactuar con la interfaz y visualizar métricas.
 Los datos serán generados por SyntheaTM Patient Generator
-3. Problema
+## Problema
 El hospital XY  ha utilizado históricamente proveedores de nube para alquilar servidores físicos, en los últimos meses ha incrementado el número de pacientes y tuvieron problemas para escalar sus servidores de aplicaciones, bases de datos MySQL y herramientas de análisis. Su arquitectura actual se puede ver aquí. Que consta de un canal HL7, sql y rest api para la ingesta de datos.
 El hospital XY quiere ajustar su infraestructura para resolver sus problemas de escala. Tienen servidores de aplicaciones, base de datos MySQL para almacenar información del usuario y exámenes médicos. Y están interesados en utilizar la analítica para mejorar sus procedimientos. Tienen un plan de diseño implementado, pero tuvieron problemas con un proveedor de nube anterior. Sus objetivos comerciales son utilizar un proveedor de nube que le brinde el Software como Servicio(SaaS) y pagar un valor mensual. 
 Necesitan algún tipo de métricas o indicadores clave de rendimiento para medir la velocidad, la estabilidad y otras cualidades. Para que puedan comenzar a administrar la calificación de la experiencia del usuario tomando decisiones inteligentes en la infraestructura médica.
 
 
-4. Puntos clave
+## Puntos clave
 Como suele ser el caso, la solución planificada o presunta podría no ser la ideal. Tienes que tener cuidado al discutir esto, ¿verdad? No sabes quién participó en la definición de ese gran plan. Puede ser un buen diseño. Puede tener algunas áreas que deban cambiarse. Lo importante es reconocer primero la existencia de la solución planificada. Luego, para definir la solución por separado, para que pueda comprender las fortalezas y debilidades de la propuesta. De esa manera, puede hacer sugerencias razonadas sobre qué cambiar para mejorar el plan.
 
 
@@ -48,7 +48,7 @@ La empresa tiene un fuerte enfoque en análisis y métricas personalizadas. En o
 Finalmente, debe considerar soluciones de almacenamiento potencialmente diferentes para datos analíticos y para datos de pacientes. Los datos son diferentes, se accede de manera diferente y en diferentes momentos. Por lo tanto, tendría sentido que cada tipo de datos y casos de uso se examinarán por separado para determinar los mejores candidatos para su inclusión.
 
 
-5. TODO
+## TODO
 
 Planificación
 Puntos de negocio clave
@@ -63,7 +63,7 @@ Ingesta FHIR a BigQuery
 
 
 
-6. Criterios de aceptación mínimos del proyecto
+## Criterios de aceptación mínimos del proyecto
 Los criterios para considerar que has realizado este proyecto son:
 Definición del producto
 Documenta brevemente tu trabajo en el archivo README.md de tu repositorio, contándonos cómo fue tu proceso de diseño y cómo crees que el producto resuelve el problema (o problemas) que tiene tu usuario.
