@@ -11,12 +11,12 @@
 
 ## Índice
 * [Overview](#Overview)
+* [Setup](#Setup)
 * [Resumen del proyecto](#resumen-del-proyecto)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 * [Problema](#Problema)
 * [Puntos clave](#Puntos-clave)
 * [TODO](#TODO)
-* [Criterios de aceptación](#Criterios-de-aceptación)
+* [Criterios de aceptación mínimos del proyecto](#Criterios-de-aceptación-mínimos-del-proyecto)
 * [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 
 
@@ -50,13 +50,14 @@ Finalmente, debe considerar soluciones de almacenamiento potencialmente diferent
 
 ## TODO
 
-Planificación
+# Planificación
 Puntos de negocio clave
 Evaluación técnica
 Solución Propuesta 
 
+<br>
 
-Desarrollo
+# Desarrollo
 Recursos
 Google Healthcare
 Ingesta FHIR a BigQuery
@@ -71,15 +72,15 @@ Historias de usuario
 Una vez que entiendas las necesidades de tus usuarios, escribe las Historias de Usuario que representen todo lo que el usuario necesita hacer/ver. Las Historias de Usuario deben ser el resultado de tu proceso de investigación o research de tus usuarios.
 Asegúrate de incluir la definición de terminado (definition of done) y los Criterios de Aceptación para cada una.
 En la medida de lo posible, termina una historia de usuario antes de pasar a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
- 
-Planificación
+ <br>
+# Planificación
 Puntos de negocio clave
 Evaluación técnica
 Solución Propuesta 
  
+<br> 
  
- 
-Implementación de la Interfaz de Usuario
+# Implementación de la Interfaz de Usuario
 Como mínimo, tu implementación debe:
 Mostrar la data en una interfaz: puede ser un card, una tabla, una lista, etc.
 Permitir al usuario interactuar para obtener la información que necesita.
@@ -91,13 +92,13 @@ Implementación de la Arquitectura
 Recursos
 Google Healthcare
 Ingesta FHIR a BigQuery
+<br> 
  
- 
-Pruebas unitarias
+# Pruebas unitarias
 El boilerplate de este proyecto no incluye Pruebas Unitarias (tests), así es que tendrás que escribirlas tú para las funciones encargadas de procesar, filtrar y ordenar la data, así como calcular estadísticas.
 Tus pruebas unitarias deben dar una cobertura del 70% de statements (sentencias), functions (funciones), lines (líneas), y branches (ramas) del archivo src/data.js que contenga tus funciones y está detallado en la sección de Consideraciones técnicas.
- 
-Herramientas
+<br>
+# Herramientas
 Atlassian: Jira, Trello.
  
 
