@@ -1,5 +1,5 @@
 
-<img alt="Bootcamp Logo" src="/logo.png" style="width: 100px">
+<img alt="Bootcamp Logo" src="/logo.png" style="width: 50px">
 
 # Proyectos Bootcamp AI - GCP
 
