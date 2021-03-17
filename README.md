@@ -3,6 +3,11 @@
 
 # Proyectos Bootcamp AI - GCP
 
+<br><br>
+
+## Table of Contents
+- [**Who We Are**](#who-we-are)
+
 
 ## Índice
 * [1. Overview](#1-preámbulo)
@@ -13,9 +18,12 @@
 5. TODO
 6. Criterios de aceptación
 
-*** 
-![System Architecture](FHIR_DevDays_Demo.png)
- 
+<img src="proyectos/docs/FHIR_DevDays_Demo.png" width="400" height="400">
+
+
+## Who We Are
+
+
 ## 1. Overview
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
 No obstante, los datos por sí mismos son de poca utilidad. Para que esas grandes cantidades de datos se conviertan en información fácil de leer para los usuarios, necesitamos entender y procesar estos datos. Una manera simple de hacerlo es creando interfaces y visualizaciones.
