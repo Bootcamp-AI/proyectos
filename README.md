@@ -1,4 +1,8 @@
+
+<img alt="Bootcamp Logo" src="/logo.png">
+
 # Proyectos Bootcamp AI - GCP
+
 
 ## Índice
 * [1. Overview](#1-preámbulo)
@@ -11,10 +15,11 @@
 
 *** 
  
-1. Preámbulo
+## 1. Overview
 Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
 No obstante, los datos por sí mismos son de poca utilidad. Para que esas grandes cantidades de datos se conviertan en información fácil de leer para los usuarios, necesitamos entender y procesar estos datos. Una manera simple de hacerlo es creando interfaces y visualizaciones.
 En este año los hospitales han generado más datos debido a la pandemia y necesitan estructurarlos de mejor manera.
+
 2. Resumen del proyecto
 En este proyecto construirás un sistema para para el registro y análisis de datos de pacientes para uno o más hospitales.
 Como entregable final tendrás una página web que permita a los doctores y enfermeras interactuar con la interfaz y visualizar métricas.
