@@ -6,7 +6,7 @@
 <br><br>
 
 ## Table of Contents
-- [1. Overview](#1. Overview)
+- [**1. Overview**](#1. Overview)
 - [2. Resumen del proyecto](#2. resumen-del-proyecto)
 - [3. Problema](#3. Problema)
 - [4. Puntos clave](#3. Puntos clave)
