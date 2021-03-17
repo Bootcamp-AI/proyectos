@@ -6,12 +6,12 @@
 <br><br>
 
 ## Table of Contents
-* [1. Overview](#1. Overview)
-* [2. Resumen del proyecto](#2. resumen-del-proyecto)
-* [3. Problema](#3. Problema)
-* [4. Puntos clave](#3. Puntos clave)
-* [5. TODO](#3. TODO)
-* [6. Criterios de aceptación mínimos del proyecto](#6. Criterios de aceptación mínimos del proyecto)
+- [1. Overview](#1. Overview)
+- [2. Resumen del proyecto](#2. resumen-del-proyecto)
+- [3. Problema](#3. Problema)
+- [4. Puntos clave](#3. Puntos clave)
+- [5. TODO](#3. TODO)
+- [6. Criterios de aceptación mínimos del proyecto](#6. Criterios de aceptación mínimos del proyecto)
 
 
 <div>
